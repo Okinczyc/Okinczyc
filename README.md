@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Okinczyc
-- 👀 I’m interested in many things. GIS, UAVO, enviroment, DIY.
+- 👀 I’m interested in many things. GIS, UAVO, enviroment, DIY. <a href="https://hosted.weblate.org/engage/webodm/pl/">
+<img src="https://hosted.weblate.org/widgets/webodm/pl/svg-badge.svg" alt="Stan tłumaczenia" />
+</a>
 - 🌱 I’m currently learning WebODM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
